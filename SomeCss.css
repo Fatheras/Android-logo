@@ -1,0 +1,37 @@
+div {
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  height: 100px;
+}
+
+.android {
+  background-color: #05a807;
+  height: 40%;
+  width: 100%;
+  color: #05a807;
+  border-radius: 10%;
+  position: relative;
+}
+
+.head {}
+
+.rightAntenna {}
+
+.leftAntenna {}
+
+.rightEye {}
+
+.leftEye {}
+
+.eyes {}
+
+.body {}
+
+.leftHand {}
+
+.rightHand {}
+
+.leftLeg {}
+
+.rightLeg {}
